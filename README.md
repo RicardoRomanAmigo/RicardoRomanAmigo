@@ -4,7 +4,7 @@ Unity (C#) Game Developer focused on gameplay systems, scalable architecture and
 
 ---
 
-## 🎮 Featured Project
+## 🕹 Featured Project
 
 ### 00:00
 A noir time-loop puzzle game built in Unity.
@@ -17,7 +17,7 @@ A noir time-loop puzzle game built in Unity.
 
 ---
 
-## 🛠 Technical Focus
+## 🧬 Technical Focus
 
 - Unity development (2D / gameplay systems)
 - C# architecture and modular design
