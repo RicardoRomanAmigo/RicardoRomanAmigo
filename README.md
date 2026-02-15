@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ricardo Román Amigo
 
-<!--
-**RicardoRomanAmigo/RicardoRomanAmigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unity (C#) Game Developer focused on gameplay systems, scalable architecture and clean code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Featured Project
+
+### 00:00
+A noir time-loop puzzle game built in Unity.
+
+- Event-driven architecture  
+- Modular gameplay systems  
+- Time-based recording and replay mechanics  
+
+🔗 https://github.com/RicardoRomanAmigo/unity-00-00
+
+---
+
+## 🛠 Technical Focus
+
+- Unity development (2D / gameplay systems)
+- C# architecture and modular design
+- State-driven game flow management
+- Event-based communication patterns
+- Scalable project structure
+
+---
+
+## 🚀 Current Direction
+
+Building increasingly complex gameplay systems while refining architectural quality and performance.
